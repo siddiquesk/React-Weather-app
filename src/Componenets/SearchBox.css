@@ -1,0 +1,17 @@
+.SearchBox {
+  width: 400px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  padding: 1rem 1rem;
+  border-radius: 7px;
+  text-align: center;
+  margin: 20px auto;
+}
+#btn {
+  margin: 20px 80px 0px 5px;
+  display: block;
+  position: relative;
+  left: 150px;
+}
+h2 {
+  color: maroon;
+}
